@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Com.pwc.shapes\obj\Debug\net8.0\Com.Pwc.shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Com.pwc.shapes\obj\Debug\net8.0\Com.Pwc.shapes.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Com.pwc.shapes\obj\Debug\net8.0\Com.Pwc.shapes.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Com.pwc.shapes\obj\Debug\net8.0\Com.Pwc.shapes.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Com.pwc.shapes\bin\Debug\net8.0\Com.Pwc.shapes.exe
+C:\Users\Administrator\source\repos\Com.pwc.shapes\bin\Debug\net8.0\Com.Pwc.shapes.deps.json
+C:\Users\Administrator\source\repos\Com.pwc.shapes\bin\Debug\net8.0\Com.Pwc.shapes.runtimeconfig.json
+C:\Users\Administrator\source\repos\Com.pwc.shapes\bin\Debug\net8.0\Com.Pwc.shapes.dll
+C:\Users\Administrator\source\repos\Com.pwc.shapes\bin\Debug\net8.0\Com.Pwc.shapes.pdb
+C:\Users\Administrator\source\repos\Com.pwc.shapes\obj\Debug\net8.0\Com.Pwc.shapes.dll
+C:\Users\Administrator\source\repos\Com.pwc.shapes\obj\Debug\net8.0\refint\Com.Pwc.shapes.dll
+C:\Users\Administrator\source\repos\Com.pwc.shapes\obj\Debug\net8.0\Com.Pwc.shapes.pdb
+C:\Users\Administrator\source\repos\Com.pwc.shapes\obj\Debug\net8.0\Com.Pwc.shapes.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Com.pwc.shapes\obj\Debug\net8.0\ref\Com.Pwc.shapes.dll

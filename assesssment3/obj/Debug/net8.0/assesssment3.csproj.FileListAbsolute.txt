@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\assesssment3\obj\Debug\net8.0\assesssment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\assesssment3\obj\Debug\net8.0\assesssment3.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\assesssment3\obj\Debug\net8.0\assesssment3.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\assesssment3\obj\Debug\net8.0\assesssment3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\assesssment3\bin\Debug\net8.0\assesssment3.exe
+C:\Users\Administrator\source\repos\assesssment3\bin\Debug\net8.0\assesssment3.deps.json
+C:\Users\Administrator\source\repos\assesssment3\bin\Debug\net8.0\assesssment3.runtimeconfig.json
+C:\Users\Administrator\source\repos\assesssment3\bin\Debug\net8.0\assesssment3.dll
+C:\Users\Administrator\source\repos\assesssment3\bin\Debug\net8.0\assesssment3.pdb
+C:\Users\Administrator\source\repos\assesssment3\obj\Debug\net8.0\assesssment3.dll
+C:\Users\Administrator\source\repos\assesssment3\obj\Debug\net8.0\refint\assesssment3.dll
+C:\Users\Administrator\source\repos\assesssment3\obj\Debug\net8.0\assesssment3.pdb
+C:\Users\Administrator\source\repos\assesssment3\obj\Debug\net8.0\assesssment3.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\assesssment3\obj\Debug\net8.0\ref\assesssment3.dll
